@@ -1,4 +1,6 @@
 Banana 
 Maca 
-Pera 
+Pera
+Uva 
+Abacaxi 
 
